@@ -35,22 +35,22 @@ Passionate Software Engineer with a strong focus on AI, Machine Learning, and sc
 
 <div align="center">
   <p float="left" style="display: flex; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api?username=jazibjohar&show_icons=true&theme=tokyonight&hide=issues&height=200" width="49%" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jazibjohar&theme=tokyonight&height=180" width="49%" alt="GitHub Streak" />
+    <img src="https://github-read-git-0bc960-syed-muhammad-baligh-ur-rehmans-projects.vercel.app/api?username=jazibjohar&show_icons=true&hide=issues&height=200&include_all_commits=true&count_private=true&count_private_prs=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="49%" alt="GitHub Stats" />
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-zeta-vert.vercel.app?user=jazibjohar&layout=compact" alt="GitHub Streak" /></a>
   </p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazibjohar&layout=compact&theme=tokyonight" width="50%" alt="Top Languages" />
+  <img src="https://github-read-git-0bc960-syed-muhammad-baligh-ur-rehmans-projects.vercel.app/api/top-langs/?username=jazibjohar&layout=pie&include_all_commits=true&count_private=true&langs_count=50&size_weight=0.5&count_weight=0.5" width="50%" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jazibjohar&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jazibjohar&column=4&margin-w=15&margin-h=15&include_all_commits=true&count_private=true" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jazibjohar&theme=tokyo-night" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph-lime.vercel.app/graph?username=jazibjohar&include_all_commits=true&count_private=true&theme=react&days=60&grid=false" alt="Contribution Graph" />
 </div>
 
 ## 🤝 Connect With Me

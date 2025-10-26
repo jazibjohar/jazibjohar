@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C96F7&center=true&vCenter=true&random=false&width=435&lines=Hi+👋+I'm+Syed+Baligh;AI+%26+Machine+Learning+Engineer;Software+Developer;Solutions+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C96F7&center=true&vCenter=true&random=false&width=435&lines=Hi+👋+I'm+Syed+Baligh;AI+%26+Machine+Learning+Engineer;Software+Developer;Solutions+Architect" alt="Typing SVG" />
 </div>
 
 ## 🤖 About Me
@@ -38,7 +38,6 @@ Passionate Software Engineer with a strong focus on AI, Machine Learning, and sc
     <img src="https://github-read-git-0bc960-syed-muhammad-baligh-ur-rehmans-projects.vercel.app/api?username=jazibjohar&show_icons=true&hide=issues&height=200&include_all_commits=true&count_private=true&count_private_prs=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="49%" alt="GitHub Stats" />
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-zeta-vert.vercel.app?user=jazibjohar&layout=compact" alt="GitHub Streak" /></a>
   </p>
-  <img src="https://github-read-git-0bc960-syed-muhammad-baligh-ur-rehmans-projects.vercel.app/api/top-langs/?username=jazibjohar&layout=pie&include_all_commits=true&count_private=true&langs_count=50&size_weight=0.5&count_weight=0.5" width="50%" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies

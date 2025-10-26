@@ -40,12 +40,6 @@ Passionate Software Engineer with a strong focus on AI, Machine Learning, and sc
   </p>
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jazibjohar&column=4&margin-w=15&margin-h=15&include_all_commits=true&count_private=true" alt="GitHub Trophies" />
-</div>
-
 ## 📈 Contribution Graph
 
 <div align="center">

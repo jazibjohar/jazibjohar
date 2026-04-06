@@ -10,15 +10,6 @@ AI/ML Engineer and Software Developer building intelligent systems — from LLM 
 - 🌱 Deep-diving into advanced LLM techniques, feature engineering, and distributed systems
 - 👯 Open to collaborating on AI/ML tooling and open-source infrastructure projects
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [ai-text-structor](https://github.com/jazibjohar/ai-text-structor) | Async framework for orchestrating LLM workflows through JSON-based configurations | Python |
-| [text-structor-react-ui](https://github.com/jazibjohar/text-structor-react-ui) | React component library for the AI Text Structor engine | TypeScript |
-| [dynamic-ip-update-aws](https://github.com/jazibjohar/dynamic-ip-update-aws) | Automatically updates local machine IP to AWS Route 53 | Go |
-| [terraform-eks](https://github.com/jazibjohar/terraform-eks) | Terraform modules for provisioning EKS clusters | HCL |
-
 ## 🛠️ Tech Stack
 
 <div align="center">
